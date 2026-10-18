@@ -308,13 +308,13 @@ This product uses the TMDB API but is not endorsed or certified by TMDB.
 
 Project 5 is **unfinished and in progress**.
 
-Completed development work includes the candidate dataset, core MySQL tables and analytical views, and the Power BI dashboard. The database views and key KPI counts were checked during development.
+Completed development work includes the candidate dataset, core MySQL tables and analytical views, and the Power BI dashboard. The database views and key KPI counts were checked during development. The project files have also been committed to the local Git repository in commit `f86e02f` (`Add Project 5 Animation BI dashboard`).
 
 Remaining work includes:
 
 - Final validation of the database export and working SQL workflow files.
-- Confirming that the README accurately reflects the final file structure.
-- Reviewing the staged files to ensure credentials and unnecessary local files are excluded.
-- Completing the first Git commit only after the project files and documentation have been reviewed.
+- Confirming that the README accurately reflects the final file structure and project state.
+- Reviewing Git tracking and credential exclusions to ensure `.env` and unnecessary local files are not committed.
+- Completing any necessary final corrections and committing those updates.
 
-The project should not be considered complete until these remaining checks have been addressed.
+The project should not be considered complete until the remaining validation and documentation checks have been addressed.
