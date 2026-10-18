@@ -1,0 +1,1001 @@
+movie_id,company_id,company_name
+374856,882,TOHO
+374856,165675,V1 studio
+374856,9149,Shogakukan
+374856,11727,Yomiuri Telecasting Corporation
+374856,6755,Nippon Television Network Corporation
+374856,12655,Shogakukan-Shueisha Productions
+9081,26468,IFC Productions
+9081,380,Thousand Words
+9081,11510,Detour Filmproduction
+9081,27357,Flat Black Films
+411802,2785,Warner Bros. Animation
+411802,429,DC
+45162,4811,Warner Premiere
+45162,2785,Warner Bros. Animation
+45162,429,DC
+382581,6220,Mattel
+382581,44658,Nerd Corps Entertainment
+212168,528,Bandai Visual
+212168,882,TOHO
+212168,529,Production I.G
+212168,1778,dentsu
+212168,59118,Kodansha
+212168,21346,FlyingDog
+14611,101439,MLG Productions 2
+14611,1632,Lionsgate
+14611,420,Marvel Studios
+140870,67715,Nozon
+140870,2613,Futurikon
+140870,3984,Entre Chien et Loup
+140870,16868,Futurikon Production II
+140870,22071,Mollywood
+16418,6220,Mattel
+16418,102897,Rainmaker Entertainment
+116322,9965,Ánima Estudios
+116322,8685,Eficine 226
+116322,7570,Videocine
+16225,2216,Helkon Media
+16225,91006,Das Werk Productions
+16225,4172,CinéGroupe
+20455,2106,Saban Entertainment
+20455,5542,Toei Animation
+20455,240148,FOX Kids
+431819,6689,SHAFT
+431819,2883,Aniplex
+431819,8157,jeki
+431819,104184,Lawson Entertainment
+431819,882,TOHO
+431819,139842,TOY'S FACTORY
+431819,116599,LINE
+431819,2073,KADOKAWA
+53985,521,DreamWorks Animation
+34065,12653,Pikachu Project
+34065,12654,The Pokémon Company
+34065,9149,Shogakukan
+34065,3034,TV Tokyo
+34065,7967,Media Factory
+34065,11644,Tomy
+34065,8157,jeki
+34065,5372,OLM
+34065,5261,Shogakukan Production
+56590,2785,Warner Bros. Animation
+56590,429,DC
+290727,33365,Mattel Playground Productions
+290727,6220,Mattel
+290727,44658,Nerd Corps Entertainment
+504997,2785,Warner Bros. Animation
+504997,9993,DC Entertainment
+504997,299443,The LEGO Group
+238302,18713,Prana Studios
+238302,22135,Prana Animation Studios
+238302,7353,Gateway Films
+439058,4859,Nickelodeon Animation Studio
+439058,67244,Snee-Oosh Inc.
+44728,5542,Toei Animation
+44728,5822,Toei Company
+495925,5141,Shin-Ei Animation
+495925,15329,Fujiko Productions
+495925,9149,Shogakukan
+495925,9300,TV Asahi
+495925,4720,ADK
+495925,12655,Shogakukan-Shueisha Productions
+844075,67089,Light Chaser Animation Studios
+537055,2785,Warner Bros. Animation
+537055,429,DC
+784500,5542,Toei Animation
+784500,5822,Toei Company
+784500,6075,Studio Deen
+784500,59118,Kodansha
+784500,73025,Kinoshita Group
+784500,155586,Bandai
+784500,3031,The Asahi Shimbun
+784500,4673,King Records
+48246,10930,Bagdasarian Productions
+48246,4285,Universal Cartoon Studios
+48246,3436,Universal Studios Home Entertainment Family Productions
+411736,2785,Warner Bros. Animation
+411736,9993,DC Entertainment
+39057,5372,OLM
+39057,12653,Pikachu Project
+39057,12654,The Pokémon Company
+39057,9149,Shogakukan
+39057,3034,TV Tokyo
+39057,7967,Media Factory
+39057,13070,TakaraTomy
+39057,8157,jeki
+39057,12655,Shogakukan-Shueisha Productions
+201676,7225,DHX Media
+201676,22826,Hasbro Studios
+16237,429,DC
+16237,2785,Warner Bros. Animation
+16237,274991,Cartoon Network Movies
+15060,29500,The Curiosity Company
+15060,1556,20th Century Fox Television
+14830,102419,MLG Productions 4
+14830,1632,Lionsgate
+14830,420,Marvel Studios
+135531,13113,A-1 Pictures
+135531,1778,dentsu
+135531,59118,Kodansha
+135531,9148,Pony Canyon
+135531,3034,TV Tokyo
+135531,192,Shochiku
+80518,2849,BONES
+80518,2883,Aniplex
+80518,10038,Square Enix
+80518,3363,MBS
+80518,192,Shochiku
+80518,1393,TBS
+80518,1778,dentsu
+13647,212999,MLG Productions 3
+13647,420,Marvel Studios
+13647,1632,Lionsgate
+13647,7505,Marvel Entertainment
+13517,3922,A. Film Production
+13517,2613,Futurikon
+13517,850,Eurimages
+13517,50163,Ulysses Filmproduktion
+13517,6586,TPS Star
+13517,1898,Fís Éireann/Screen Ireland
+13517,185323,Magma Films
+13517,310,CNC
+13517,851,MEDIA Programme of the European Union
+13517,150551,The Danish Film Institute
+13517,2902,SND
+13517,4621,Gébéka Films
+71172,2883,Aniplex
+71172,3153,SUNRISE
+71172,3034,TV Tokyo
+71172,174,Warner Bros. Pictures
+71172,1778,dentsu
+71172,528,Bandai Visual
+392216,3475,Disney Television Animation
+71883,1780,TFC
+71883,3464,Madhouse
+461615,21660,Ankama
+461615,10868,STUDIO4℃
+11052,2918,Shueisha
+11052,50879,Gallop
+11052,3034,TV Tokyo
+11052,53504,NAS
+11052,3035,4Kids Entertainment
+11052,55914,Konami
+624620,5371,Nickelodeon Productions
+624620,71738,Spin Master
+382512,2785,Warner Bros. Animation
+382512,9993,DC Entertainment
+382512,299443,The LEGO Group
+462677,5141,Shin-Ei Animation
+462677,15329,Fujiko Productions
+462677,9149,Shogakukan
+462677,9300,TV Asahi
+462677,12655,Shogakukan-Shueisha Productions
+462677,4720,ADK
+21379,4081,The LEGO Group
+21379,14,Miramax
+21379,57607,Creative Capers Entertainment
+21379,110320,CGCG
+21379,10859,Wang Film Productions
+15257,1632,Lionsgate
+15257,420,Marvel Studios
+15257,101449,MLG Productions 6
+15257,13252,Marvel Animation
+491633,13252,Marvel Animation
+373879,5542,Toei Animation
+373879,3341,Fuji Television Network
+240341,528,Bandai Visual
+240341,1778,dentsu
+240341,529,Production I.G
+240341,882,TOHO
+240341,59118,Kodansha
+240341,21346,FlyingDog
+1027014,114690,Khalabo Ink Society
+1027014,145430,Mad Solar
+1027014,31922,DNEG
+877957,20556,Studio Colorido
+877957,120469,Twin Engine
+573699,67089,Light Chaser Animation Studios
+573699,135035,Joy Pictures
+573699,135036,Tianjin Maoyan Weying Media
+573699,131092,Zhejiang Hengdian Film Production
+573699,135037,Beijing Jinyi Jiayi Film Distribution
+573699,5431,Dadi Film
+553837,3153,SUNRISE
+19508,15196,Animation Picture Company
+19508,1302,Davis Entertainment
+19508,4569,Paws
+19508,3635,20th Century Fox Home Entertainment
+19508,4439,Digiart Productions
+292014,46315,Voronezh Animation Studio
+292014,1038,Bazelevs
+292014,76049,Cinema Foundation of Russia
+579741,88373,Signal.MD
+579741,124255,Sublimation
+1165642,127541,Climax Studios
+1165642,176892,Red Dog Culture House
+1165642,164046,SLL
+586940,17065,Studio Xilam
+586940,109756,Auvergne-Rhône-Alpes Cinéma
+874299,6329,MTV Entertainment Studios
+413594,13113,A-1 Pictures
+413594,2883,Aniplex
+413594,32957,ASCII Media Works
+413594,12502,Bandai Namco Entertainment
+413594,5751,GENCO
+413594,95809,EGG FIRM
+16774,4279,IDT Entertainment
+16774,19,Film Roman
+405314,7225,DHX Media
+405314,22826,Hasbro Studios
+19325,14,Miramax
+19325,4081,The LEGO Group
+19325,57607,Creative Capers Entertainment
+19325,10859,Wang Film Productions
+19325,110320,CGCG
+609271,24955,Paramount Animation
+609271,8406,Big Kid Pictures
+609271,31922,DNEG
+32916,2785,Warner Bros. Animation
+32916,1353,Hanna-Barbera Cartoons
+938567,5141,Shin-Ei Animation
+938567,882,TOHO
+938567,3033,Asmik Ace
+938567,9149,Shogakukan
+938567,12655,Shogakukan-Shueisha Productions
+52264,8212,Folimage
+52264,11905,Digit Anima
+52264,591,France 3 Cinéma
+52264,4621,Gébéka Films
+942881,192,Shochiku
+942881,13113,A-1 Pictures
+942881,172748,Poplar
+942881,6755,Nippon Television Network Corporation
+942881,2883,Aniplex
+942881,11727,Yomiuri Telecasting Corporation
+942881,529,Production I.G
+942881,33677,Chukyo TV Broadcasting Company
+942881,78956,Sapporo Television Broadcasting Company
+942881,11723,Miyagi Television Broadcasting
+942881,11724,Shizuoka Daiichi Television
+942881,11722,Hiroshima Telecasting
+942881,11720,Fukuoka Broadcasting System
+291270,32542,Starburns Industries
+291270,15159,Snoot Entertainment
+378108,5751,GENCO
+378108,21444,MAPPA
+23446,5542,Toei Animation
+530079,99494,Science SARU
+530079,3341,Fuji Television Network
+530079,882,TOHO
+530079,8157,jeki
+530079,9149,Shogakukan
+530079,11848,KDDI
+530079,104184,Lawson Entertainment
+101907,13252,Marvel Animation
+101907,1632,Lionsgate
+101907,101449,MLG Productions 6
+101907,420,Marvel Studios
+284274,13252,Marvel Animation
+116977,4082,Threshold Animation Studios
+494656,9965,Ánima Estudios
+494656,7570,Videocine
+68555,3464,Madhouse
+68555,6755,Nippon Television Network Corporation
+68555,14789,D.N. Dream Partners
+68555,11725,VAP
+68555,2918,Shueisha
+77499,90286,Technicolor Animation
+77499,6220,Mattel
+333622,5438,Kyoto Animation
+13376,5,Columbia Pictures
+13376,878,Happy Madison Productions
+100271,1393,TBS
+100271,2073,KADOKAWA
+100271,529,Production I.G
+100271,1194,KADOKAWA Shoten
+100271,528,Bandai Visual
+100271,12384,CBC
+100271,8156,Chugoku Broadcasting
+100271,4330,Horipro
+100271,3363,MBS
+100271,5372,OLM
+100271,123663,Tokyu Recreation
+100271,7542,Yahoo! Japan
+100271,8157,jeki
+33875,12653,Pikachu Project
+33875,5261,Shogakukan Production
+33875,11644,Tomy
+33875,12654,The Pokémon Company
+33875,3034,TV Tokyo
+33875,8157,jeki
+33875,7967,Media Factory
+33875,5372,OLM
+33875,9149,Shogakukan
+171823,529,Production I.G
+334376,529,Production I.G
+703771,2785,Warner Bros. Animation
+703771,72489,Blue Ribbon Content
+703771,27711,Berlanti Productions
+703771,429,DC
+80797,154744,Rai Fiction
+80797,38411,Rainbow
+80797,288713,Brain Zoo Studios
+166747,33365,Mattel Playground Productions
+166747,6220,Mattel
+166747,44658,Nerd Corps Entertainment
+296917,529,Production I.G
+296917,3341,Fuji Television Network
+296917,882,TOHO
+296917,648,Sony Music Entertainment (Japan)
+296917,221091,Kyoraku Industrial Holdings
+296917,1778,dentsu
+296917,22600,Nitroplus
+843241,6075,Studio Deen
+283161,689,Ventanarosa
+283161,8152,DFI
+283161,77961,Prophet Screen Partners
+283161,77962,MyGroup Lebanon
+283161,77963,FFA Private Bank
+283161,73757,Bardel Entertainment
+283161,60711,Code Red
+283161,77964,Creative Projects Group
+283161,77965,Gibran National Committee
+283161,77966,Hanson
+283161,123911,Financière Pinault
+41201,3659,Django Films
+41201,591,France 3 Cinéma
+41201,27196,Ciné B
+41201,7981,Pathé
+280391,8606,Boréales
+280391,7981,Pathé
+280391,7464,Kissfilms
+280391,1115,M6 Films
+280391,10102,Cattleya
+280391,8676,uFilm
+227679,12654,The Pokémon Company
+227679,5372,OLM
+227679,9149,Shogakukan
+227679,3034,TV Tokyo
+227679,13070,TakaraTomy
+227679,8157,jeki
+227679,12655,Shogakukan-Shueisha Productions
+227679,12653,Pikachu Project
+118412,29177,Beyond C.
+118412,35971,Graphinica
+118412,10868,STUDIO4℃
+23056,4172,CinéGroupe
+23056,157699,Anima Kids
+23056,136063,Bren Entertainment
+23056,83,France 2 Cinéma
+23056,62628,Filmax Animation
+23056,3631,Filmax
+23056,104,Canal+
+23056,806,Téléfilm Canada
+23056,310,CNC
+23056,357,Vía Digital
+23056,7956,Castelao Productions
+18874,529,Production I.G
+18874,528,Bandai Visual
+18874,1778,dentsu
+18874,163675,Victor Entertainment
+18874,6755,Nippon Television Network Corporation
+18874,1779,Tokuma Shoten
+18874,120107,Bandai Entertainment
+18874,287309,Manga Entertainment
+834404,2785,Warner Bros. Animation
+834404,429,DC
+36218,5372,OLM
+36218,12653,Pikachu Project
+36218,5261,Shogakukan Production
+36218,12654,The Pokémon Company
+36218,9149,Shogakukan
+36218,3034,TV Tokyo
+36218,7967,Media Factory
+36218,11644,Tomy
+36218,8157,jeki
+42360,3153,SUNRISE
+42360,104644,Mini Art
+211755,3464,Madhouse
+51786,3475,Disney Television Animation
+324963,33365,Mattel Playground Productions
+324963,6220,Mattel
+324963,44658,Nerd Corps Entertainment
+47292,8157,jeki
+47292,7967,Media Factory
+47292,5372,OLM
+47292,12653,Pikachu Project
+47292,3034,TV Tokyo
+47292,12654,The Pokémon Company
+47292,13070,TakaraTomy
+47292,9149,Shogakukan
+47292,12655,Shogakukan-Shueisha Productions
+23127,2659,Starz Media
+23127,5860,Anchor Bay Films
+23127,10370,Spectacle Entertainment Group
+23127,17553,Carbunkle Cartoons
+23127,19,Film Roman
+460790,23333,Sola Digital Arts
+460790,11341,Stage 6 Films
+460790,162929,Lucent Pictures Entertainment
+45662,3980,Wonderworld Studios
+45662,18713,Prana Studios
+45662,152742,Studiopolis
+45662,81139,Vanguard Animation
+31967,4571,Dongwoo A&E
+31967,19,Film Roman
+31967,33347,Manglobe
+31967,8032,JM Animation
+31967,529,Production I.G
+31967,3550,Electronic Arts
+50253,5542,Toei Animation
+192577,5542,Toei Animation
+192577,77884,Marza Animation Planet
+15877,529,Production I.G
+15877,6755,Nippon Television Network Corporation
+15877,20024,Polygon Pictures
+15877,3627,Warner Bros. Japan
+300602,37209,4 Cats Pictures
+300602,16742,Telefónica Studios
+300602,104631,Los Rockets La Película
+300602,2875,Ikiru Films
+300602,104632,Lightbox Animation Studios
+300602,2674,Telecinco Cinema
+205081,85521,Curious Pictures
+205081,7899,Cartoon Network Studios
+205081,274991,Cartoon Network Movies
+515789,5056,Head Gear Films
+515789,25954,Metrol Technology
+515789,115965,Red Star 3D
+515789,119056,Particular Crowd
+515789,254320,Metro Applied Intelligence
+515789,254322,Kaleidoscope Film Distribution
+515789,254323,Screen Orkshire
+161143,521,DreamWorks Animation
+870358,2785,Warner Bros. Animation
+870358,429,DC
+16808,8157,jeki
+16808,7967,Media Factory
+16808,5372,OLM
+16808,12653,Pikachu Project
+16808,5261,Shogakukan Production
+16808,3034,TV Tokyo
+16808,12654,The Pokémon Company
+16808,13070,TakaraTomy
+16808,9149,Shogakukan
+846867,18616,Tippett Studio
+408355,60714,Mili Pictures
+632632,42811,Lerche
+632632,2883,Aniplex
+632632,1778,dentsu
+632632,3341,Fuji Television Network
+632632,3466,movic
+632632,233952,Shinshokan
+349158,22826,Hasbro Studios
+349158,7225,DHX Media
+8953,528,Bandai Visual
+8953,3153,SUNRISE
+8953,106227,Steamboy Committee
+8953,10868,STUDIO4℃
+8953,23098,Triumph Films
+820232,5887,ufotable
+167313,33365,Mattel Playground Productions
+167313,6220,Mattel
+167313,44658,Nerd Corps Entertainment
+169934,82346,Sony Pictures
+169934,3464,Madhouse
+13754,2883,Aniplex
+13754,9149,Shogakukan
+13754,10868,STUDIO4℃
+13754,194517,Asmik Ace Entertainment
+13754,29177,Beyond C.
+227738,16569,Películas Pendelton
+227738,9335,Canal+ España
+227738,9967,Zeta Studios
+227738,40789,ONO
+227738,5085,TV3
+227738,5653,Ilion Animation Studios
+227738,981,TVE
+227738,11652,Warner Bros. Entertainment España
+351694,59387,Hengdian Chinese Film Production Co.
+351694,59388,Beijing Weiying Shidai Technology (WePiao)
+351694,153486,October Media
+351694,167790,October Animation Studio
+351694,110710,S&C Pictures
+351694,60279,Shandong Film & TV Group
+351694,249289,BIGBIGSUN
+351694,249434,MAX DREAM
+44727,5542,Toei Animation
+152044,6689,SHAFT
+96826,7899,Cartoon Network Studios
+96826,170346,Tiny Island Productions
+96826,78253,Man of Action Entertainment
+573171,58366,Huevocartoon Producciones
+257932,60714,Mili Pictures
+567006,31058,WIT STUDIO
+567006,3341,Fuji Television Network
+567006,2883,Aniplex
+567006,7549,Kansai Television
+567006,221091,Kyoraku Industrial Holdings
+567006,1778,dentsu
+11049,5542,Toei Animation
+11049,3117,Daft Life
+21712,10868,STUDIO4℃
+21712,194517,Asmik Ace Entertainment
+21712,71921,Rentrak Japan
+21712,29177,Beyond C.
+192911,44658,Nerd Corps Entertainment
+192911,302609,Mattel Studios
+268092,22826,Hasbro Studios
+615165,121589,CloverWorks
+615165,2883,Aniplex
+615165,3341,Fuji Television Network
+615165,882,TOHO
+615165,128616,Story
+615165,2073,KADOKAWA
+16652,2526,Kickstart Entertainment
+16652,87859,BAF Berlin Animation Film
+997776,2785,Warner Bros. Animation
+997776,429,DC
+845387,21444,MAPPA
+845387,3627,Warner Bros. Japan
+845387,1778,dentsu
+845387,2073,KADOKAWA
+845387,181190,Cygames
+845387,42196,Bushiroad
+845387,3466,movic
+845387,194647,LEGS
+845387,208713,NatureLab
+845387,5069,Mainichi Shimbun
+845387,11849,Lawson
+472983,4859,Nickelodeon Animation Studio
+13204,4279,IDT Entertainment
+13204,19,Film Roman
+510242,529,Production I.G
+510242,3341,Fuji Television Network
+510242,882,TOHO
+510242,648,Sony Music Entertainment (Japan)
+510242,1778,dentsu
+510242,187770,MAGNET
+510242,22600,Nitroplus
+164372,1038,Bazelevs
+164372,46315,Voronezh Animation Studio
+513347,3756,CoMix Wave Films
+513347,87874,Haoliners Animation
+667717,153486,October Media
+667717,121042,Horgos Coloroom Pictures
+667717,4053,Enlight Pictures
+463116,106008,Animagrad Animation Studio
+463116,61460,Ukrainian State Film Agency
+463116,242561,Ukrainian Film School
+642538,99494,Science SARU
+642538,3033,Asmik Ace
+642538,2883,Aniplex
+642538,3756,CoMix Wave Films
+642538,11848,KDDI
+642538,273904,Open Culture Entertainment
+642538,198852,MIXI
+642538,167373,Filmarks
+642538,3032,Nippan Group Holdings
+16455,126134,Action Synthese
+16455,1853,Les Films Action
+16455,126135,SPZ Entertainment
+16455,6215,bolexbrothers
+16455,866,Pathé Renn Productions
+16455,83,France 2 Cinéma
+16455,2452,UK Film Council
+16455,6542,Pricel
+16455,7981,Pathé
+568012,5542,Toei Animation
+568012,5822,Toei Company
+568012,2918,Shueisha
+568012,155586,Bandai
+568012,12502,Bandai Namco Entertainment
+31347,528,Bandai Visual
+31347,20202,Amber Film Works
+31347,20206,Shelty
+31347,192,Shochiku
+31347,3464,Madhouse
+31347,59118,Kodansha
+111224,529,Production I.G
+111224,287309,Manga Entertainment
+111224,120107,Bandai Entertainment
+111224,1778,dentsu
+111224,12835,Victor Entertainment
+585077,29177,Beyond C.
+585077,87211,DMM.com
+585077,173991,Whateversmiles
+585077,9149,Shogakukan
+585077,882,TOHO
+585077,43682,SANKYO
+585077,12150,PARCO
+585077,10868,STUDIO4℃
+585077,204094,Phoenix Entertainment Group
+585077,204095,ORIX Investment
+585077,204096,Wander Pictures
+152042,6689,SHAFT
+212167,20759,Purple Cow Studios Japan
+212167,21581,STUDIO RIKKA
+212167,3033,Asmik Ace
+212167,60197,Good Smile Company
+212167,2073,KADOKAWA
+212167,21580,Directions
+267970,529,Production I.G
+267970,3031,The Asahi Shimbun
+255413,13113,A-1 Pictures
+457249,9993,DC Entertainment
+457249,2785,Warner Bros. Animation
+457249,72489,Blue Ribbon Content
+627661,9965,Ánima Estudios
+627661,139890,ReDefine
+627661,197253,Virtuso Productions
+394759,318,CTB Film Company
+394759,46315,Voronezh Animation Studio
+394759,76049,Cinema Foundation of Russia
+428142,59988,Lay-duce
+115223,7967,Media Factory
+115223,5372,OLM
+115223,12653,Pikachu Project
+115223,529,Production I.G
+115223,12655,Shogakukan-Shueisha Productions
+115223,3034,TV Tokyo
+115223,5937,XEBEC
+115223,13070,TakaraTomy
+115223,8157,jeki
+115223,9149,Shogakukan
+115223,12654,The Pokémon Company
+345775,27350,Maybe Movies
+345775,42210,2 Minutes
+345775,69193,Noerlum Studios
+345775,591,France 3 Cinéma
+345775,12433,Sacrebleu Productions
+46033,7164,TMS Entertainment
+46033,11727,Yomiuri Telecasting Corporation
+46033,6755,Nippon Television Network Corporation
+46033,9149,Shogakukan
+46033,195026,Tokyo Movie
+17234,11814,SKY Perfect Well Think
+17234,648,Sony Music Entertainment (Japan)
+17234,9300,TV Asahi
+17234,192,Shochiku
+17234,1778,dentsu
+17234,5141,Shin-Ei Animation
+17234,11811,Dentsu Tec
+17234,11738,Mitsui & Co.
+912598,31058,WIT STUDIO
+912598,128616,Story
+912598,22600,Nitroplus
+912598,104184,Lawson Entertainment
+912598,162614,Straight Edge
+912598,3627,Warner Bros. Japan
+13391,2788,Avex Entertainment
+13391,7394,OXYBOT
+13391,11543,CCRE
+13391,5261,Shogakukan Production
+13391,9149,Shogakukan
+13391,1393,TBS
+13391,7542,Yahoo! Japan
+13391,192,Shochiku
+738215,137586,Mattel Television
+738215,6220,Mattel
+738215,151541,Mainframe Studios
+430214,99494,Science SARU
+430214,3341,Fuji Television Network
+430214,882,TOHO
+430214,59206,BS Fuji
+430214,2073,KADOKAWA
+268690,9965,Ánima Estudios
+268690,7570,Videocine
+36736,1538,Comedy Central
+36736,5615,Six Point Harness
+36736,4,Paramount Pictures
+36736,59549,Double Hemm
+36736,7480,Comedy Central Films
+36736,18757,Mondo Media
+433694,112595,Fun Academy Media Group
+433694,8649,Mikros Image
+25278,5542,Toei Animation
+72720,5024,Mainframe Entertainment
+72720,6220,Mattel
+72720,1957,Warner Bros. Television
+284995,2785,Warner Bros. Animation
+284995,1353,Hanna-Barbera Cartoons
+362585,6689,SHAFT
+362585,2883,Aniplex
+997317,13113,A-1 Pictures
+997317,2883,Aniplex
+997317,2918,Shueisha
+997317,8157,jeki
+997317,3363,MBS
+285733,33365,Mattel Playground Productions
+285733,6220,Mattel
+285733,102897,Rainmaker Entertainment
+8885,76921,Les Films d'Ici
+8885,703,Razor Film Produktion
+8885,183975,ITVS International
+8885,201,ARTE
+8885,17931,Bridgit Folman Film Gang
+50337,7899,Cartoon Network Studios
+50337,274991,Cartoon Network Movies
+357786,6689,SHAFT
+11633,882,TOHO
+11633,1393,TBS
+11633,3361,Digital Frontier
+11633,3362,Geneon Entertainment
+11633,3363,MBS
+11633,3364,Micott Basara K.K.
+11633,3365,TYO Productions
+11633,3360,Appleseed Film Partners
+94196,591,France 3 Cinéma
+94196,3144,Prima Linéa Productions
+94196,7766,Chaocorp
+94196,7981,Pathé
+94196,11199,SCOPE Pictures
+13158,6760,Williams Street
+13158,36424,Radical Axis
+842859,207,Agat Films & Cie / Ex Nihilo
+842859,1926,Les Films du Fleuve
+842859,694,StudioCanal
+842859,3144,Prima Linéa Productions
+842859,94916,Les Compagnons du Cinéma
+842859,11797,VOO
+842859,792,RTBF
+842859,591,France 3 Cinéma
+842859,24430,BeTV
+11651,5754,Rat Pack Filmproduktion
+11651,47,Constantin Film
+5833,11098,The Harvey Entertainment Company
+5833,33,Universal Pictures
+5833,6858,Universal Studios Home Entertainment
+44730,5542,Toei Animation
+44730,5822,Toei Company
+44730,3341,Fuji Television Network
+44730,2918,Shueisha
+44730,155586,Bandai
+586954,115677,Dreamin' Dolphin Film
+586954,115678,Eagle Eye Filmproduktion
+586954,60440,Grid Animation
+453364,90695,Little Dream Entertainment
+453364,3391,ORF
+453364,11680,Filmförderung Hamburg Schleswig-Holstein
+453364,11389,OFI
+453364,90696,HessenFilm und Medien
+453364,90697,Pixeltruck
+453364,4606,ZDF
+453364,122,Coop99 Filmproduktion
+795522,150976,Gorgonaut
+795522,25578,Reno Productions
+795522,23654,Etch Media
+292177,7225,DHX Media
+292177,22826,Hasbro Studios
+627093,23,Imagine Entertainment
+627093,17009,Universal 1440 Entertainment
+627093,5556,Universal Animation Studios
+13679,6973,Les Armateurs
+13679,7453,Armada Films
+44731,5542,Toei Animation
+428288,88373,Signal.MD
+428288,529,Production I.G
+428288,2073,KADOKAWA
+428288,6755,Nippon Television Network Corporation
+428288,3627,Warner Bros. Japan
+428288,11846,Hakuhodo DY Media Partners
+428288,4330,Horipro
+428288,140361,Hulu Japan
+428288,155586,Bandai
+428288,11725,VAP
+428288,11727,Yomiuri Telecasting Corporation
+428288,11848,KDDI
+428288,104184,Lawson Entertainment
+428288,78956,Sapporo Television Broadcasting Company
+428288,11723,Miyagi Television Broadcasting
+428288,11724,Shizuoka Daiichi Television
+428288,11722,Hiroshima Telecasting
+428288,11720,Fukuoka Broadcasting System
+428288,73268,Nishinippon Broadcasting
+428288,33677,Chukyo TV Broadcasting Company
+364111,13113,A-1 Pictures
+364111,35971,Graphinica
+364111,104184,Lawson Entertainment
+364111,9149,Shogakukan
+364111,1778,dentsu
+364111,3341,Fuji Television Network
+364111,2883,Aniplex
+245917,3034,TV Tokyo
+245917,2883,Aniplex
+245917,3153,SUNRISE
+245917,1778,dentsu
+245917,528,Bandai Visual
+749618,9965,Ánima Estudios
+436120,99494,Science SARU
+436120,3341,Fuji Television Network
+436120,882,TOHO
+436120,59206,BS Fuji
+413736,81501,Appa Productions
+413736,6220,Mattel
+432131,13113,A-1 Pictures
+109080,7164,TMS Entertainment
+109080,186151,North Star Pictures
+109080,49301,Toho Pictures
+797394,318,CTB Film Company
+797394,46315,Voronezh Animation Studio
+797394,11029,QED International
+797394,125613,Kinoprime Foundation
+797394,76049,Cinema Foundation of Russia
+300386,2785,Warner Bros. Animation
+300386,429,DC
+16516,5807,VISUAL ARTS/Key
+16516,5542,Toei Animation
+16516,5809,Frontier Works
+17305,7899,Cartoon Network Studios
+17305,274991,Cartoon Network Movies
+120811,5438,Kyoto Animation
+120811,192,Shochiku
+120811,1393,TBS
+120811,3466,movic
+120811,9148,Pony Canyon
+12924,3756,CoMix Wave Films
+850818,137586,Mattel Television
+850818,6220,Mattel
+850818,151541,Mainframe Studios
+663459,17012,Timeless Films
+663459,170792,Sandcastle Studios
+663459,30216,Sunrise Productions
+293644,9965,Ánima Estudios
+293644,105992,Discreet Arts Productions
+22537,5261,Shogakukan Production
+22537,9149,Shogakukan
+22537,11727,Yomiuri Telecasting Corporation
+22537,3153,SUNRISE
+22537,6755,Nippon Television Network Corporation
+22537,882,TOHO
+476631,6220,Mattel
+476631,10280,Arc Productions
+476631,2213,Rainmaker Studios
+812456,151541,Mainframe Studios
+257475,5438,Kyoto Animation
+257475,91067,Animation DO
+271706,58209,Studio Mir
+271706,17818,Beijing Enlight Pictures
+271706,121042,Horgos Coloroom Pictures
+16460,3980,Wonderworld Studios
+16460,3635,20th Century Fox Home Entertainment
+16460,4569,Paws
+16460,15196,Animation Picture Company
+16460,1302,Davis Entertainment
+16460,4439,Digiart Productions
+33065,318,CTB Film Company
+33065,5306,Melnitsa Animation Studio
+14711,3341,Fuji Television Network
+14711,1077,GONZO
+14711,121928,Spike TV
+10927,8104,Ambient Entertainment
+10927,2395,HanWay Films
+10927,10031,Morena Films
+34297,3153,SUNRISE
+874300,6329,MTV Entertainment Studios
+242546,1077,GONZO
+242546,35971,Graphinica
+242546,2788,Avex Entertainment
+573683,3627,Warner Bros. Japan
+16761,58366,Huevocartoon Producciones
+16761,15878,FIDECINE
+16761,7570,Videocine
+16761,299,Instituto Mexicano de Cinematografía
+16761,310346,Focus
+493006,7164,TMS Entertainment
+493006,11727,Yomiuri Telecasting Corporation
+493006,12655,Shogakukan-Shueisha Productions
+493006,6755,Nippon Television Network Corporation
+493006,882,TOHO
+201223,13113,A-1 Pictures
+201223,2883,Aniplex
+201223,2918,Shueisha
+201223,3363,MBS
+201223,3466,movic
+201223,1778,dentsu
+201223,882,TOHO
+201223,1393,TBS
+201223,155586,Bandai
+201223,145850,Bandai Namco Games
+411221,11520,MFM
+411221,7543,Arcadia Motion Pictures
+411221,29566,Atresmedia
+411221,82853,Tangent Animation
+411221,97036,Pachacamac Film
+411221,101122,BD Animation
+411221,121337,Capitán Araña
+411221,254317,Viva Kids
+16990,528,Bandai Visual
+16990,3153,SUNRISE
+16990,2849,BONES
+513386,67089,Light Chaser Animation Studios
+789708,79465,Mercury Filmworks
+789708,62976,Silvergate Media
+269650,11341,Stage 6 Films
+269650,162929,Lucent Pictures Entertainment
+269650,23333,Sola Digital Arts
+63498,2268,Isle of Man Film
+63498,5705,CinemaNX
+63498,11423,Estudio Mariscal
+63498,11424,Fernando Trueba PC
+63498,2395,HanWay Films
+63498,5644,Magic Light Pictures
+63498,11428,Mesfilms
+63498,5085,TV3
+63498,981,TVE
+34295,3153,SUNRISE
+508422,20556,Studio Colorido
+508422,2073,KADOKAWA
+508422,882,TOHO
+508422,1778,dentsu
+508422,648,Sony Music Entertainment (Japan)
+508422,3341,Fuji Television Network
+388045,9965,Ánima Estudios
+388045,7570,Videocine
+553835,11884,J.C.STAFF
+553835,95809,EGG FIRM
+553835,3627,Warner Bros. Japan
+553835,142186,Hakuhodo DY Music & Pictures
+553835,5751,GENCO
+553835,6681,THE KLOCKWORX
+553835,3466,movic
+553835,113034,FuRyu
+553835,151191,GREE
+553835,185808,GA Bunko
+553835,142185,SB Creative
+597398,88340,Bilibaba
+88557,5372,OLM
+88557,12653,Pikachu Project
+88557,529,Production I.G
+88557,12655,Shogakukan-Shueisha Productions
+88557,3034,TV Tokyo
+88557,5937,XEBEC
+88557,9149,Shogakukan
+88557,7967,Media Factory
+88557,13070,TakaraTomy
+88557,8157,jeki
+88557,12654,The Pokémon Company
+448779,310,CNC
+448779,219223,Vanilla Seed
+448779,18570,Master Films
+448779,28792,TAT Productions
+448779,311,PROCIREP
+448779,7131,France Télévisions
+448779,28793,Région Midi-Pyrénées
+633844,529,Production I.G
+633844,2073,KADOKAWA
+633844,6755,Nippon Television Network Corporation
+633844,882,TOHO
+20986,3041,GAINAX
+20986,2883,Aniplex
+20986,55914,Konami
+20986,1194,KADOKAWA Shoten
+20986,3034,TV Tokyo
+20986,1778,dentsu
+13194,3463,Imagi Animation Studios
+13194,3464,Madhouse
+13194,2737,Davis-Panzer Productions
+9389,232741,Onyx Films
+9389,23656,Millimages
+9389,31374,LuxAnimation
+9389,23657,Timefirm
+9389,83,France 2 Cinéma
+9389,269141,Attitude Studio
+9389,3539,Odyssey Entertainment
+9389,7981,Pathé
+9389,851,MEDIA Programme of the European Union
+9389,1755,Allied Filmmakers
+597845,123331,Riki Group
+597845,8910,"Animation Studio ""Petersburg"""
+597845,76049,Cinema Foundation of Russia
+36800,4226,Atmo Media Network
+36800,76,Zentropa Entertainments
+127544,529,Production I.G
+127544,43363,Sanzigen
+127544,5671,Ishimori Production
+127544,122846,AMAZONLATERNA
+127544,6755,Nippon Television Network Corporation
+127544,11725,VAP
+127544,17228,T-JOY
+4398,1635,herbX film
