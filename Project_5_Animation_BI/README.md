@@ -119,7 +119,7 @@ It defines five analytical views using `CREATE OR REPLACE VIEW`.
 
 ### Verified View Counts
 
-The views were queried during project development, with the following row counts recorded:
+The views were queried during project development in both the original database and the separate restore-test database. The following row counts were recorded:
 
 | View | Rows |
 |---|---:|
@@ -262,7 +262,7 @@ These scripts support the collection, preparation, import, and validation stages
 ### SQL and Dashboard Files
 
 - **`Project_5_Animation_BI.sql`** — primary SQL script defining the five analytical views.
-- **`Project_5_Animation_BI_database_export.sql`** — MySQL Workbench database export containing database structures, data, and final view definitions. Restoration portability should be checked because the export includes a `root@localhost` view definer.
+- **`Project_5_Animation_BI_database_export.sql`** — MySQL Workbench database export containing database structures, data, and final view definitions. A separate restore test in `animation_bi_restore_test` successfully recreated the expected 11 tables and 5 analytical views, with the expected movie and view row counts. Restoration portability across different MySQL environments and the `root@localhost` view definer still require consideration.
 - **`data/Project_5_Animation_BI_working_sql_workflow.sql`** — working SQL workflow containing import steps, validation queries, exploratory checks, and view definitions. It is not a standalone database backup.
 - **`Project_5_Animation_BI_Dashboard.pbix`** — Power BI dashboard.
 - **`README.md`** — project documentation.
@@ -286,7 +286,7 @@ The `.gitignore` file excludes `.env`, `.venv/`, `__pycache__/`, and `.vs/`.
 
 To reproduce the project, a user will need their own TMDB credentials, the appropriate Python environment and dependencies, a compatible MySQL installation, the prepared project data, and Power BI Desktop to open the dashboard.
 
-Database export restoration should be tested in a separate database or environment before being treated as a portable restoration procedure.
+Database export restoration was tested in a separate database named `animation_bi_restore_test`. The test confirmed the expected 11 tables, 5 views, 1,236 movie records, and recorded analytical view row counts. This is a structural and row-count validation, not an exhaustive comparison of every restored record or a guarantee of portability across different MySQL environments.
 
 ## Portfolio Context
 
@@ -308,11 +308,12 @@ This product uses the TMDB API but is not endorsed or certified by TMDB.
 
 Project 5 is **unfinished and in progress**.
 
-Completed development work includes the candidate dataset, core MySQL tables and analytical views, and the Power BI dashboard. The database views and key KPI counts were checked during development. The project files have also been committed to the local Git repository in commit `f86e02f` (`Add Project 5 Animation BI dashboard`).
+Completed development work includes the candidate dataset, core MySQL tables and analytical views, and the Power BI dashboard. The database views, key KPI counts, and a separate database restore test have been checked during development. The project files have also been committed to the local Git repository in commit `f86e02f` (`Add Project 5 Animation BI dashboard`), with a subsequent README status update in commit `23d187c`.
 
 Remaining work includes:
 
-- Final validation of the database export and working SQL workflow files.
+- Reviewing the chronological working SQL workflow for clarity and reproducibility.
+- Addressing any remaining portability concerns with the database export, including the view definer.
 - Confirming that the README accurately reflects the final file structure and project state.
 - Reviewing Git tracking and credential exclusions to ensure `.env` and unnecessary local files are not committed.
 - Completing any necessary final corrections and committing those updates.
