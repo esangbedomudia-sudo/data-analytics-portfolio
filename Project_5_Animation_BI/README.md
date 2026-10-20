@@ -103,6 +103,10 @@ Staging tables are used during data preparation and import:
 
 The staging tables support the import workflow; they are distinct from the core analytical tables.
 
+### Country Data Import
+
+The country import uses `import_countries_to_mysql.py` to load records from `data/animation_movie_countries_cleaned.csv` into the existing `countries_staging` table. The script reads `MYSQL_USER` and `MYSQL_PASSWORD` from `.env` and connects to the `animation_bi` database on the local MySQL server. It does not create or clear the staging table. The chronological SQL workflow separately creates `countries_staging` and contains the subsequent inserts into `production_countries` and `movie_countries`. Do not rerun the import script merely to verify the workflow, because it uses ordinary inserts and may add duplicate records or encounter constraint errors.
+
 ## SQL Analytics
 
 The main SQL script is `Project_5_Animation_BI.sql`.
@@ -254,7 +258,8 @@ The project includes scripts for:
 - Creating the analytical dataset and dimension files
 - Checking data quality and anomalies
 - Validating cleaned data and the data model
-- Importing company and country data into MySQL
+- Importing company data into MySQL
+- `import_countries_to_mysql.py` ? reads `data/animation_movie_countries_cleaned.csv` and inserts country relationship records into the existing `countries_staging` table in `animation_bi`
 - Splitting company data into manageable files
 
 These scripts support the collection, preparation, import, and validation stages. The presence of a script does not by itself establish that every execution or validation step is complete.
