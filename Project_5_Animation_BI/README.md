@@ -259,7 +259,7 @@ The project includes scripts for:
 - Checking data quality and anomalies
 - Validating cleaned data and the data model
 - Importing company data into MySQL
-- `import_countries_to_mysql.py` ? reads `data/animation_movie_countries_cleaned.csv` and inserts country relationship records into the existing `countries_staging` table in `animation_bi`
+- `import_countries_to_mysql.py` - reads `data/animation_movie_countries_cleaned.csv` and inserts country relationship records into the existing `countries_staging` table in `animation_bi`
 - Splitting company data into manageable files
 
 These scripts support the collection, preparation, import, and validation stages. The presence of a script does not by itself establish that every execution or validation step is complete.
