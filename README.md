@@ -1,181 +1,158 @@
-# YouTube Animation Analytics Portfolio
+# Data Analytics Portfolio
 
 ## Overview
 
-This repository explores the intersection of **data analytics and digital media** by analyzing YouTube animation content performance.
+This repository showcases data analytics projects involving data collection, data cleaning, exploratory analysis, content strategy, SQL-based analysis, and business intelligence.
 
-The goal of this portfolio is to understand how content characteristics, audience engagement, and creative decisions influence video performance. Through multiple projects, this repository demonstrates an end-to-end analytics workflow — from collecting raw data with the YouTube Data API, to analyzing trends with Python, extracting insights from content patterns, and performing database analysis with SQL.
+The projects demonstrate practical applications of Python, SQL, data visualization, and Power BI across digital media and animation. They include both YouTube content performance analysis and animated-movie industry analysis using separate datasets.
 
-These projects reflect my interest in applying data analytics and emerging technologies to creative industries such as animation, digital media, and storytelling.
+The portfolio reflects my interest in applying analytical and technical skills to creative industries, digital media, and data-driven decision-making.
 
----
+## Projects
 
-# Projects
+### Project 1 — YouTube Animation Data Collection
 
-## Project 1 — YouTube Animation Data Collection
+**Objective:** Collect and prepare YouTube animation data for analysis using the YouTube Data API.
 
-### Objective
+**Skills demonstrated:**
+- Python and Pandas
+- API integration
+- Data collection and cleaning
+- CSV data management
+- Feature preparation for analysis
 
-Collect and prepare YouTube animation data for analysis using the YouTube Data API.
+**Key components:**
+- Collection of animation-related YouTube data
+- Multiple search queries
+- Raw, cleaned, and expanded datasets
 
-### Skills Demonstrated
-
-* Python
-* YouTube Data API
-* API Integration
-* Data Collection
-* Data Cleaning
-* Pandas
-* CSV Data Management
-
-### Key Components
-
-* Automated data collection from YouTube
-* Multiple animation-related search queries
-* Dataset cleaning and preparation
-* Feature creation for future analysis
-
-### Contents
-
-* `youtube_project.py`
-* Raw dataset
-* Cleaned dataset
-* Expanded dataset
+**Project folder:** `Project_1_Data_Collection`
 
 ---
 
-## Project 2 — YouTube Animation Performance Analytics
+### Project 2 — YouTube Animation Performance Analytics
 
-### Objective
+**Objective:** Analyze YouTube animation video performance to identify patterns in views, engagement, and content categories.
 
-Analyze animation video performance to identify patterns in views, engagement, and content categories.
+**Skills demonstrated:**
+- Python and Pandas
+- Exploratory data analysis (EDA)
+- Matplotlib
+- Data analysis and visualization
 
-### Skills Demonstrated
+**Key analyses:**
+- Top-performing animation videos
+- Views by content category
+- Engagement analysis
+- Yearly and monthly trends
 
-* Python
-* Pandas
-* Data Analysis
-* Matplotlib
-* Exploratory Data Analysis (EDA)
-* Data Visualization
-
-### Analysis Includes
-
-* Top-performing animation videos
-* Average views by content type
-* Engagement analysis
-* Yearly trends
-* Monthly trends
-
-### Visualizations
-
-* Top 10 Animation Videos by Views
-* Distribution of Engagement Ratio
-* Average Views by Content Type
+**Project folder:** `Project_2_Performance_Analytics`
 
 ---
 
-## Project 3 — YouTube Animation Title & Content Strategy Analysis
+### Project 3 — YouTube Animation Title Strategy Analysis
 
-### Objective
+**Objective:** Examine language patterns in animation video titles to explore how keywords relate to video performance.
 
-Analyze language patterns in animation video titles to understand how keywords relate to audience performance.
+**Skills demonstrated:**
+- Python
+- Text preprocessing
+- Regular expressions
+- Data analysis
+- Foundations of natural language processing (NLP)
+- Matplotlib
 
-### Skills Demonstrated
+**Key analyses:**
+- Title cleaning and preprocessing
+- Keyword frequency
+- Average views associated with title words
+- Identification of potentially high-performing keywords
 
-* Python
-* Text Processing
-* Regular Expressions
-* Data Analysis
-* Natural Language Processing Foundations
-* Matplotlib
-
-### Analysis Includes
-
-* Title cleaning and preprocessing
-* Keyword extraction
-* Average views by title word
-* Identification of high-performing keywords
-
-### Visualization
-
-* Top Words by Average Views
+**Project folder:** `Project_3_Title_Strategy_Analysis`
 
 ---
 
-## Project 4 — YouTube Animation SQL Analytics
+### Project 4 — YouTube Animation SQL Analytics
 
-### Objective
+**Objective:** Analyze YouTube animation performance data in MySQL using SQL queries to investigate content, engagement, and channel performance.
 
-Import YouTube animation data into a MySQL database and perform analytical queries to uncover deeper performance insights.
+**Skills demonstrated:**
+- SQL and MySQL
+- Database management
+- Aggregations and grouping
+- Filtering with `WHERE` and `HAVING`
+- Conditional logic with `CASE`
+- Subqueries and joins
+- Window functions, including `ROW_NUMBER()` and `RANK()`
 
-### Skills Demonstrated
+**Key analyses:**
+- Dataset exploration
+- Performance by content category
+- Engagement metrics
+- Channel performance
+- Ranking videos within categories
 
-* SQL
-* MySQL
-* Database Management
-* Aggregate Functions
-* GROUP BY
-* HAVING
-* CASE Statements
-* Window Functions
-* ROW_NUMBER()
-* RANK()
-* Subqueries
-* Joins
-
-### Analysis Includes
-
-* Dataset exploration
-* Content category performance
-* Video performance analysis
-* Channel analysis
-* Ranking analysis
+**Project folder:** `Project_4_SQL_Analytics`
 
 ---
 
-# Technologies Used
+### Project 5 — Animation Business Intelligence Dashboard
 
-* Python
-* SQL (MySQL)
-* Pandas
-* Matplotlib
-* YouTube Data API
-* Git
-* GitHub
-* Visual Studio Code
-* MySQL Workbench
+**Objective:** Analyze animated-movie industry data from TMDB using a relational database and a Power BI dashboard to explore industry patterns and support data-driven insights.
+
+**Skills demonstrated:**
+- SQL and MySQL
+- Relational database analysis
+- Analytical SQL views
+- Power BI
+- Business intelligence and data visualization
+- Database export and restoration validation
+
+**Key components:**
+- Analysis of a dataset containing 1,236 animated-movie candidates
+- MySQL database with five analytical views
+- Power BI dashboard with six analytical sections
+- SQL database export and restoration testing
+
+**Main deliverables:**
+- `Project_5_Animation_BI.sql`
+- `Project_5_Animation_BI_Dashboard.pbix`
+- `Project_5_Animation_BI_database_export.sql`
+
+**Project folder:** `Project_5_Animation_BI`
+
+See the Project 5 folder for its README, methodology, deliverables, and documented limitations.
 
 ---
 
-# Repository Structure
+## Technologies
+
+- **Languages:** Python, SQL
+- **Data analysis:** Pandas, exploratory data analysis
+- **Visualization:** Matplotlib, Power BI
+- **Data sources and integration:** YouTube Data API, TMDB
+- **Databases:** MySQL
+- **Development tools:** Visual Studio Code, MySQL Workbench
+- **Version control:** Git and GitHub
+
+## Repository Structure
 
 ```text
-youtube-animation-analysis
-│
-├── Project_1_Data_Collection
-│   ├── src
-│   └── data
-│
-├── Project_2_Performance_Analytics
-│   ├── src
-│   └── visuals
-│
-├── Project_3_Title_Strategy_Analysis
-│   ├── src
-│   └── visuals
-│
-└── Project_4_SQL_Analytics
-    ├── sql files
-    └── scripts
+data-analytics-portfolio/
+├── Project_1_Data_Collection/
+├── Project_2_Performance_Analytics/
+├── Project_3_Title_Strategy_Analysis/
+├── Project_4_SQL_Analytics/
+├── Project_5_Animation_BI/
+└── README.md
 ```
 
----
+Each project folder contains its own supporting files and documentation.
 
-# Author
+## Author
 
 **Ose Esangbedo**
 
-Mathematics Graduate | Data Analytics | Python | SQL | Data Visualization | Machine Learning (In Progress)
+Mathematics Graduate | Data Analytics | Python | SQL | Business Intelligence
 
-This repository represents my progression from data collection and analytics toward machine learning and AI-driven solutions, with a focus on applying technology to creative and digital media domains.
+This portfolio demonstrates practical work across data collection, analysis, database querying, and business intelligence, with an emphasis on applications in animation and digital media.
