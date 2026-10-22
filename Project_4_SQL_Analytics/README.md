@@ -2,95 +2,134 @@
 
 ## Overview
 
-This project extends the YouTube animation analytics portfolio by importing the dataset into a MySQL database and performing SQL-based analysis.
+This project uses MySQL and SQL to analyze YouTube animation video data stored in a relational database.
 
-Rather than analyzing the data with Python, this project demonstrates how relational databases and SQL can be used to explore large datasets, summarize information, rank results, and uncover performance insights.
+Building on the dataset collected in Project 1, the project demonstrates how SQL can be used to explore records, aggregate performance metrics, compare content categories, evaluate channel performance, and rank videos using increasingly advanced queries.
 
-This project represents the database analytics stage of the portfolio and showcases practical SQL skills commonly used in data analytics and business intelligence roles.
+Python is used to support the data import workflow, while MySQL provides the environment for database querying and analysis.
 
----
+This project demonstrates practical database analytics techniques relevant to data analyst and business intelligence workflows.
 
-# Objective
+## Objectives
 
-The objective of this project is to:
+The objectives of this project are to:
 
-* Import the YouTube animation dataset into MySQL
-* Perform analytical SQL queries
-* Explore content and channel performance
-* Practice real-world SQL techniques used by data analysts
-* Generate insights directly from a relational database
+- Import the YouTube animation dataset into a MySQL database.
+- Explore and query data stored in relational tables.
+- Analyze video performance and audience engagement.
+- Compare performance across animation content categories and channels.
+- Apply aggregation, filtering, subqueries, joins, and window functions.
+- Generate analytical summaries directly from the database.
 
----
+## Tools & Technologies
 
-# Tools & Technologies
+- **SQL** — Querying, transforming, aggregating, and analyzing data.
+- **MySQL** — Relational database management system.
+- **MySQL Workbench** — Database interaction and SQL query development.
+- **Python** — Supporting the data import workflow.
+- **Pandas** — Handling and preparing tabular data during import.
 
-* SQL
-* MySQL
-* MySQL Workbench
-* Python
-* Pandas
+## Analysis Performed
 
----
+### Dataset Exploration
 
-# Analysis Performed
+Queries the database to inspect records, filter data, sort results, and examine the structure and contents of the dataset.
 
-The SQL analysis includes:
+### Video Performance Analysis
 
-* Dataset exploration
-* Content category analysis
-* Video performance analysis
-* Channel performance analysis
-* Aggregate reporting
-* Ranking analysis
-* Advanced SQL querying
+Examines video-level performance metrics to identify high-performing videos and compare observed results.
 
----
+### Content Category Analysis
 
-# SQL Concepts Demonstrated
+Groups videos by animation-related content category to summarize and compare performance metrics across categories.
 
-* SELECT
-* WHERE
-* ORDER BY
-* GROUP BY
-* HAVING
-* Aggregate Functions
-* CASE Statements
-* Window Functions
-* ROW_NUMBER()
-* RANK()
-* Subqueries
-* Joins
+### Channel Performance Analysis
 
----
+Aggregates and compares video performance by channel to explore differences in the collected dataset.
 
-# Files
+### Engagement Analysis
 
-## sql/
+Uses calculated metrics and conditional logic to examine audience engagement and distinguish between different performance levels.
 
-Contains the primary SQL script used throughout the project.
+### Ranking Analysis
 
-* `youtube_animation_analytics.sql`
+Applies SQL ranking techniques to compare videos within relevant groups and identify top-performing records.
 
-## src/
+These analyses describe patterns in the available dataset and do not establish that any particular category, channel, or characteristic causes higher performance.
 
-Contains the Python helper script used to prepare and import data into MySQL.
+## SQL Concepts Demonstrated
 
-* `sql_import.py`
+The project applies SQL techniques ranging from foundational queries to more advanced analytical operations.
 
----
+### Core Querying
 
-# Skills Demonstrated
+- `SELECT`
+- `WHERE`
+- `ORDER BY`
 
-* SQL Query Writing
-* Database Management
-* Relational Databases
-* Data Aggregation
-* Business Intelligence Foundations
-* Analytical Problem Solving
-* Data Exploration
+### Aggregation and Grouping
 
----
+- `GROUP BY`
+- `HAVING`
+- Aggregate functions such as `COUNT()`, `AVG()`, `SUM()`, `MIN()`, and `MAX()`
 
-# Project Connection
+### Conditional Logic and Derived Results
 
-This project completes the analytics workflow established throughout the portfolio. After collecting data in **Project 1**, analyzing performance in **Project 2**, and exploring title strategy in **Project 3**, this project demonstrates how the same dataset can be analyzed within a relational database using industry-standard SQL techniques.
+- `CASE` statements
+- Calculated metrics
+- Subqueries and derived tables
+
+### Relational Querying
+
+- `JOIN` operations
+- Combining and analyzing related query results
+
+### Window Functions and Ranking
+
+- `ROW_NUMBER()`
+- `RANK()`
+- Window functions for ordering and ranking records within defined groups
+
+Together, these techniques demonstrate how SQL can be used to retrieve, summarize, compare, and rank data for analytical reporting.
+
+## Project Files
+
+### `sql/`
+
+Contains the primary SQL script:
+
+- `youtube_animation_analytics.sql` — Contains the SQL queries used to explore the dataset and perform performance, category, engagement, channel, and ranking analyses.
+
+### `src/`
+
+Contains the Python helper script:
+
+- `sql_import.py` — Supports preparing and importing the dataset into MySQL for database analysis.
+
+## Skills Demonstrated
+
+- SQL query development
+- MySQL database querying
+- Relational database concepts
+- Data exploration and filtering
+- Aggregation and grouped reporting
+- Conditional logic with `CASE`
+- Subqueries and derived tables
+- Joins
+- Window functions and ranking
+- Performance and engagement analysis
+- Python-assisted data import
+- Analytical problem-solving
+
+## Connection to Other Projects
+
+This project builds on **Project 1 — YouTube Animation Data Collection**, which establishes the dataset used throughout the portfolio.
+
+It complements:
+
+- **Project 2 — YouTube Animation Performance Analytics**, which uses Python to explore video performance, engagement, and content categories.
+- **Project 3 — YouTube Animation Title Strategy Analysis**, which investigates title keywords and their relationship to video views.
+
+Project 4 approaches the data from a database perspective, demonstrating how SQL can be used to perform similar and additional analyses within MySQL.
+
+Together, these projects demonstrate a workflow spanning data collection, Python-based analysis, text analysis, and relational database analytics.
