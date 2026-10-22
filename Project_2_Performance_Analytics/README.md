@@ -2,89 +2,106 @@
 
 ## Overview
 
-This project explores the performance of YouTube animation videos through exploratory data analysis (EDA). Using the dataset collected in Project 1, the analysis identifies trends in views, engagement, publishing patterns, and animation content categories.
+This project uses exploratory data analysis (EDA) to investigate the performance of YouTube animation videos.
 
-The objective is to transform raw data into actionable insights using Python and data visualization.
+Building on the dataset collected in Project 1, the analysis examines video views, audience engagement, and differences between animation-related content categories. Python, Pandas, and Matplotlib are used to explore the dataset and communicate findings through visualizations.
 
----
-
-# Objective
-
-The objective of this project is to:
-
-* Explore overall video performance
-* Analyze audience engagement
-* Compare animation content categories
-* Identify trends in video popularity
-* Communicate findings through visualizations
+The project demonstrates how collected data can be transformed into interpretable performance comparisons and analytical insights.
 
 ---
 
-# Tools & Technologies
+## Objectives
 
-* Python
-* Pandas
-* Matplotlib
-
----
-
-# Analysis Performed
-
-The analysis includes:
-
-* Top-performing videos by views
-* Distribution of engagement ratios
-* Average views by animation content type
-* General exploratory data analysis
+- Explore video performance across the dataset.
+- Examine audience engagement patterns.
+- Compare performance across animation content categories.
+- Identify high-performing videos.
+- Communicate analytical findings through visualizations.
 
 ---
 
-# Visualizations
+## Tools & Technologies
 
-## top_views.png
-
-Displays the highest-performing animation videos based on total views.
-
-## engagement_distribution.png
-
-Shows the distribution of engagement ratios across the dataset.
-
-## views_by_type.png
-
-Compares the average views across different animation-related content categories.
+- **Python** — Analysis scripting and workflow.
+- **Pandas** — Data manipulation and analysis.
+- **Matplotlib** — Data visualization.
+- **CSV** — Input data format.
 
 ---
 
-# Files
+## Analysis Performed
 
-## src/
+### Video Performance
+
+Examines videos with the highest recorded view counts to identify top-performing content in the dataset.
+
+### Audience Engagement
+
+Explores the distribution of engagement ratios to understand how engagement varies across the collected videos.
+
+### Content Category Comparison
+
+Compares average video views across animation-related content categories to identify differences in observed performance.
+
+These analyses describe patterns within the collected dataset; they do not establish that any particular content characteristic causes higher performance.
+
+---
+
+## Visualizations
+
+The `visuals/` directory contains the following charts:
+
+### `top_views.png`
+
+Displays the highest-performing animation videos by total views.
+
+### `engagement_distribution.png`
+
+Visualizes the distribution of engagement ratios across the dataset.
+
+### `views_by_type.png`
+
+Compares average views across animation-related content categories.
+
+---
+
+## Project Files
+
+### `src/`
 
 Contains the primary analysis script:
 
-* `analysis.py`
+- `analysis.py` — Performs exploratory analysis and generates the project visualizations.
 
-## visuals/
+### `visuals/`
 
-Contains the charts generated during the analysis:
+Contains the generated charts:
 
-* `top_views.png`
-* `engagement_distribution.png`
-* `views_by_type.png`
-
----
-
-# Skills Demonstrated
-
-* Exploratory Data Analysis (EDA)
-* Data Visualization
-* Python Programming
-* Pandas
-* Matplotlib
-* Data Interpretation
-* Insight Generation
+- `top_views.png`
+- `engagement_distribution.png`
+- `views_by_type.png`
 
 ---
 
-# Project Connection
+## Skills Demonstrated
 
-This project builds directly on the dataset collected in **Project 1** and establishes a foundation for the deeper content analysis performed in **Project 3** and the database analytics completed in **Project 4**.
+- Exploratory data analysis (EDA)
+- Python programming
+- Pandas data manipulation
+- Data visualization with Matplotlib
+- Performance analysis
+- Comparative analysis
+- Analytical interpretation
+
+---
+
+## Connection to Other Projects
+
+This project builds on the dataset collected in **Project 1 — YouTube Animation Data Collection**.
+
+Its analysis complements:
+
+- **Project 3 — YouTube Animation Title Strategy Analysis**, which investigates title language and its relationship to video performance.
+- **Project 4 — YouTube Animation SQL Analytics**, which uses SQL to examine video, category, engagement, and channel performance.
+
+Together, these projects demonstrate different analytical approaches applied to YouTube animation data.
