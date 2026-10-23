@@ -2,11 +2,11 @@
 
 ## Overview
 
-This repository showcases data analytics projects involving data collection, data cleaning, exploratory analysis, content strategy, SQL-based analysis, and business intelligence.
+This repository showcases five data analytics projects covering data collection, exploratory analysis, content strategy, SQL analytics, and business intelligence.
 
-The projects demonstrate practical applications of Python, SQL, data visualization, and Power BI across digital media and animation. They include both YouTube content performance analysis and animated-movie industry analysis using separate datasets.
+The projects use Python, SQL, MySQL, data visualization, and Power BI to investigate questions related to YouTube animation content and the animated-film industry. Together, they demonstrate a practical workflow from collecting and preparing data to analyzing results and presenting findings.
 
-The portfolio reflects my interest in applying analytical and technical skills to creative industries, digital media, and data-driven decision-making.
+My focus is on applying analytical and technical skills to digital media, animation, and creative industries.
 
 ## Projects
 
@@ -16,122 +16,108 @@ The portfolio reflects my interest in applying analytical and technical skills t
 
 **Skills demonstrated:**
 - Python and Pandas
-- API integration
-- Data collection and cleaning
-- CSV data management
-- Feature preparation for analysis
+- API integration and data collection
+- Data cleaning and CSV management
+- Data preparation for downstream analysis
 
 **Key components:**
-- Collection of animation-related YouTube data
-- Multiple search queries
+- Collection of animation-related YouTube data using multiple search queries
 - Raw, cleaned, and expanded datasets
+- A reusable foundation for subsequent analytics projects
 
-**Project folder:** `Project_1_Data_Collection`
-
----
+**Explore:** [Project 1 README](Project_1_Data_Collection/README.md)
 
 ### Project 2 — YouTube Animation Performance Analytics
 
-**Objective:** Analyze YouTube animation video performance to identify patterns in views, engagement, and content categories.
+**Objective:** Analyze YouTube animation video performance to investigate patterns in views, engagement, and content categories.
 
 **Skills demonstrated:**
 - Python and Pandas
 - Exploratory data analysis (EDA)
-- Matplotlib
-- Data analysis and visualization
+- Matplotlib visualization
+- Aggregation and comparative analysis
 
 **Key analyses:**
 - Top-performing animation videos
-- Views by content category
-- Engagement analysis
+- Performance by content category
+- Engagement metrics
 - Yearly and monthly trends
 
-**Project folder:** `Project_2_Performance_Analytics`
-
----
+**Explore:** [Project 2 README](Project_2_Performance_Analytics/README.md)
 
 ### Project 3 — YouTube Animation Title Strategy Analysis
 
-**Objective:** Examine language patterns in animation video titles to explore how keywords relate to video performance.
+**Objective:** Examine language patterns in animation video titles and explore how title keywords relate to video performance.
 
 **Skills demonstrated:**
 - Python
-- Text preprocessing
-- Regular expressions
-- Data analysis
+- Text preprocessing and regular expressions
+- Keyword frequency analysis
 - Foundations of natural language processing (NLP)
-- Matplotlib
+- Matplotlib visualization
 
 **Key analyses:**
 - Title cleaning and preprocessing
 - Keyword frequency
 - Average views associated with title words
-- Identification of potentially high-performing keywords
+- Exploration of potentially high-performing keywords
 
-**Project folder:** `Project_3_Title_Strategy_Analysis`
-
----
+**Explore:** [Project 3 README](Project_3_Title_Strategy_Analysis/README.md)
 
 ### Project 4 — YouTube Animation SQL Analytics
 
-**Objective:** Analyze YouTube animation performance data in MySQL using SQL queries to investigate content, engagement, and channel performance.
+**Objective:** Use MySQL and SQL queries to investigate YouTube animation performance, engagement, content categories, and channels.
 
 **Skills demonstrated:**
 - SQL and MySQL
-- Database management
-- Aggregations and grouping
-- Filtering with `WHERE` and `HAVING`
-- Conditional logic with `CASE`
-- Subqueries and joins
+- Filtering, sorting, grouping, and aggregation
+- `WHERE`, `HAVING`, and `CASE`
+- Subqueries and derived tables
 - Window functions, including `ROW_NUMBER()` and `RANK()`
+- Database import and data validation
 
 **Key analyses:**
-- Dataset exploration
+- Dataset exploration and validation
 - Performance by content category
 - Engagement metrics
 - Channel performance
 - Ranking videos within categories
 
-**Project folder:** `Project_4_SQL_Analytics`
-
----
+**Explore:** [Project 4 README](Project_4_SQL_Analytics/README.md)
 
 ### Project 5 — Animation Business Intelligence Dashboard
 
-**Objective:** Analyze animated-movie industry data from TMDB using a relational database and a Power BI dashboard to explore industry patterns and support data-driven insights.
+**Objective:** Analyze animated-film industry data from TMDB using Python, MySQL, and Power BI.
 
 **Skills demonstrated:**
-- SQL and MySQL
-- Relational database analysis
-- Analytical SQL views
-- Power BI
-- Business intelligence and data visualization
-- Database export and restoration validation
+- Python data collection, cleaning, and validation
+- Relational database modeling
+- SQL analytical views
+- MySQL data analysis
+- Power BI dashboard development
+- Database export and restoration testing
 
 **Key components:**
-- Analysis of a dataset containing 1,236 animated-movie candidates
-- MySQL database with five analytical views
-- Power BI dashboard with six analytical sections
-- SQL database export and restoration testing
+- A dataset of 1,236 animated-movie candidates
+- A MySQL database with five analytical views
+- A Power BI dashboard with six analytical sections
+- Database export and restoration validation
 
 **Main deliverables:**
-- `Project_5_Animation_BI.sql`
-- `Project_5_Animation_BI_Dashboard.pbix`
-- `Project_5_Animation_BI_database_export.sql`
+- [Power BI dashboard](Project_5_Animation_BI/Project_5_Animation_BI_Dashboard.pbix)
+- [Main SQL analytics script](Project_5_Animation_BI/Project_5_Animation_BI.sql)
+- [Database export](Project_5_Animation_BI/Project_5_Animation_BI_database_export.sql)
+- [Project documentation](Project_5_Animation_BI/README.md)
 
-**Project folder:** `Project_5_Animation_BI`
-
-See the Project 5 folder for its README, methodology, deliverables, and documented limitations.
-
----
+The project README documents the methodology, data preparation workflow, analytical model, and known limitations.
 
 ## Technologies
 
 - **Languages:** Python, SQL
 - **Data analysis:** Pandas, exploratory data analysis
 - **Visualization:** Matplotlib, Power BI
-- **Data sources and integration:** YouTube Data API, TMDB
-- **Databases:** MySQL
+- **Data sources:** YouTube Data API, TMDB
+- **Database:** MySQL
 - **Development tools:** Visual Studio Code, MySQL Workbench
 - **Version control:** Git and GitHub
 
@@ -147,7 +133,7 @@ data-analytics-portfolio/
 └── README.md
 ```
 
-Each project folder contains its own supporting files and documentation.
+Each project has its own README and supporting files. The projects use separate datasets and cover different stages and applications of the analytics workflow.
 
 ## Author
 
@@ -155,4 +141,4 @@ Each project folder contains its own supporting files and documentation.
 
 Mathematics Graduate | Data Analytics | Python | SQL | Business Intelligence
 
-This portfolio demonstrates practical work across data collection, analysis, database querying, and business intelligence, with an emphasis on applications in animation and digital media.
+This portfolio demonstrates practical work in data collection, analysis, database querying, and business intelligence, with an emphasis on applications in animation and digital media.
